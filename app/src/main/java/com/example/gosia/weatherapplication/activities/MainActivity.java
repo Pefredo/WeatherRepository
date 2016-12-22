@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayAdapter<Weather> mArrayAdapter;
     private BackgroundLoadingWeather mBackgroundLoadingWeather;
     private static ArrayList <Weather> mDataInfo = new ArrayList<Weather>();
-    private static final String[] mCities = {"Warsaw", "Cracow", "Gdansk", "Bialystok", "Poznan", "Paris"};
+    private static final String[] mCities = {"Warsaw", "Cracow", "Gdansk", "Bialystok", "Poznan", "Paris", "Berlin"};
 
 
     @Override
